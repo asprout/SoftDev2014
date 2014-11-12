@@ -18,11 +18,11 @@ Uses google to answer queries
 Simple blogging website
 ##### https://github.com/asprout/ProjectBlog.git
 
-### API Project
-##### Ling Dong, Max Zhou
-#### Description
-Using APIs
-##### link tbd
+### applei
+##### Ling Dong, Max Zhou, Derek Tsui
+##### Description
+Uses API to search for weather,location, etc. info based on zip code
+##### https://github.com/asprout/applei.git
 
 ## Mini Projects
 
