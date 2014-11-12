@@ -31,7 +31,7 @@ Uses API to search for weather,location, etc. info based on zip code
   * 7/mongoproj/barak-ling
  * regexp
   * Ling Dong, Max Zhou
-	* 7/regexp/Ling-BrianG
+  * 7/regexp/Ling-BrianG
  * intro-proj 1
   * Ling Dong, Lise Ho
   * 7/intro-proj1/ling-lise
