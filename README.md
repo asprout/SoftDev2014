@@ -35,3 +35,6 @@ Uses API to search for weather,location, etc. info based on zip code
  * intro-proj 1
   * Ling Dong, Lise Ho
   * 7/intro-proj1/ling-lise
+ * cow
+  * Ling Dong, Tyler Wang
+  * 7/cow/ling-tianshi
