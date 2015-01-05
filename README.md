@@ -8,7 +8,8 @@ Period 7
 
 ###Final Project: Liviable
 ##### Ling Dong, Barak Zhou, Max Zhou, Ivy Wong
-#### Reverse-Yelp
+#### Description
+Reverse-Yelp
 ##### https://github.com/zhoubw/liviable
 
 ### Tiger Search
