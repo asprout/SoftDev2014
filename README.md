@@ -6,11 +6,11 @@ Period 7
 
 ## Main Projects
 
-###Final Project: Liviable
+###Final Project: Bizcuits
 ##### Ling Dong, Barak Zhou, Max Zhou, Ivy Wong
 #### Description
-Reverse-Yelp
-##### https://github.com/zhoubw/liviable
+Reverse-Yelp (users will suggest businesses, rather than find them)
+##### https://github.com/zhoubw/Bizcuits
 
 ### Tiger Search
 ##### Ling Dong, Chris Kim, Alex Libman
