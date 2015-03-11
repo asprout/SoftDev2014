@@ -1,5 +1,25 @@
 Ling Dong
 ==========
+# Spring Semester 
+Period 6
+
+## Main Projects
+## Mini Projects
+*canvas
+ *Ling Dong, Cindy Wu
+ *6/canvas/cindy-ling
+*SVG
+ *Ling Dong
+ *6/svg/ling
+*data
+ *Ling Dong, Albert Yeung
+ *6/data/albert-ling
+*mtns
+ *Ling Dong
+ *6/mtns/ling
+*backbone1
+ *Ling Dong, Cindy Wu, Barak Zhou
+ *6/backbone1/cindy-barak-ling
 
 # Fall Semester
 Period 7
